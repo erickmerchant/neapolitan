@@ -1,2 +1,3 @@
-# neapolitan
-hand-coded svg
+# Neapolitan
+
+Just my first attempt at hand-coding svg.
