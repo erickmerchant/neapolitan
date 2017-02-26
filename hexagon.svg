@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12">
+  <defs>
+    <pattern id="neapolitan" height="12" width="12" patternUnits="userSpaceOnUse">
+      <path d="M0 0 H4 V12 H0 Z" fill="#FCC"></path>
+      <path d="M4 0 H8 V12 H4 Z" fill="#FFE"></path>
+      <path d="M8 0 H12 V12 H8 Z" fill="#EDB"></path>
+    </pattern>
+  </defs>
+  <path d="M6 1.6 L2 4 L2 8 L6 10.4 L10 8 L10 4 Z" stroke="url(#neapolitan)" stroke-linejoin="round" stroke-width="2" fill="url(#neapolitan)"></path>
+</svg>
