@@ -6,5 +6,5 @@
       <path d="M8 0 H12 V12 H8 Z" fill="#EDB"></path>
     </pattern>
   </defs>
-  <path d="M6 1.6 L2 4 L2 8 L6 10.4 L10 8 L10 4 Z" stroke="url(#neapolitan)" stroke-linejoin="round" stroke-width="2" fill="url(#neapolitan)"></path>
+  <path d="M6 2 L2 4 L2 8 L6 10 L10 8 L10 4 Z" stroke="url(#neapolitan)" stroke-linejoin="round" stroke-width="2" fill="url(#neapolitan)"></path>
 </svg>
